@@ -21,9 +21,6 @@ When we've talked about them, we'll just check them off.
 
 ## 10/16/2014
 
-- [ ] Examination of lab protocols
-  - [ ] Updates
-  - [ ] Missing items
 - [ ] Round robin style project summaries for all projects (see Eckert lab projects) These should be quick updates on the status of your project
 - [ ] Open time for items not listed
 
