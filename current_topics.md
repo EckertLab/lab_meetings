@@ -21,7 +21,6 @@ When we've talked about them, we'll just check them off.
 
 ## 10/16/2014
 
-- [ ] Introduction to GitHub
 - [ ] Examination of lab protocols
   - [ ] Updates
   - [ ] Missing items
